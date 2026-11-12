@@ -54,16 +54,6 @@
 
 ---
 
-## 🖼️ Visualizations
-
-### Custom Decision Tree Visualization (Built from Scratch)
-![Custom Decision Tree](assets/custom_decision_tree.png)
-
-### Deep MLP Training & Validation Loss (TensorFlow/Keras)
-![Keras Loss Curve](assets/keras_loss_curve.png)
-
----
-
 ## 💻 How to Run
 1. Clone this repository:
    ```bash
